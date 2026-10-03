@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,80:1f2937,100:0f172a&height=190&section=header&text=Soumili%20Basak&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Exploring%20Web3%20%26%20Emerging%20Tech&descSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="Soumili Basak Header" />
+<img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/header.svg" width="100%" alt="Soumili Basak Header" />
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://git.io/typing-svg">
@@ -21,19 +21,19 @@
 <!-- SOCIAL / NAVIGATION ROW -->
 <p align="center">
   <a href="https://github.com/Soumi14mili" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="34" height="34" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/github.svg" width="36" height="36" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="34" height="34" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_X_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" width="34" height="34" alt="X" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/twitter.svg" width="36" height="36" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" width="34" height="34" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/portfolio.svg" width="36" height="36" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" width="34" height="34" alt="Email" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/gmail.svg" width="36" height="36" alt="Email" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <p>
         I am a developer driven by the challenge of turning ideas into functional, reliable software. My interests span modern full-stack web engineering and decentralized systems, with a particular focus on Web3, smart contracts, and privacy-preserving protocols.
       </p>
@@ -55,8 +55,8 @@
         Rather than passive theory, I believe in learning by building—architecting prototypes, testing edge cases, and solving practical problems through working code. Whether collaborating at hackathons, contributing to developer communities, or experimenting with emerging technologies, I focus on building practical tools with real-world utility.
       </p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer coding animation" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/developer.gif" width="100%" alt="Developer coding animation" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,13 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td>
+      <div align="center">
+        <a href="https://github.com/Soumi14mili/CloakBid">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumi14mili&repo=CloakBid&theme=github_dark&hide_border=true" alt="CloakBid Repository" />
+        </a>
+      </div>
+      <br />
       <h3>CloakBid — Privacy-Preserving Sealed-Bid Auctions</h3>
       <p>
         <strong>CloakBid</strong> explores a privacy-preserving auction protocol built on <strong>Midnight</strong>, designed to keep bid information confidential while still enabling verifiable, trust-minimized auction outcomes.
@@ -100,16 +106,11 @@ Active technical areas I am researching, building prototypes in, and expanding s
       <p>
         <code>Midnight</code> &bull; <code>Blockchain</code> &bull; <code>Smart Contracts</code> &bull; <code>Zero-Knowledge / Privacy Tech</code> &bull; <code>Web3</code>
       </p>
-      <p>
+      <p align="center">
         <a href="YOUR_CLOAKBID_DEMO_URL"><strong>🔗 Live Demo</strong></a> &nbsp;&bull;&nbsp;
         <a href="https://github.com/Soumi14mili/CloakBid"><strong>💻 GitHub Repository</strong></a> &nbsp;&bull;&nbsp;
         <a href="YOUR_CLOAKBID_DOCS_URL"><strong>📖 Documentation</strong></a>
       </p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <a href="https://github.com/Soumi14mili/CloakBid">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumi14mili&repo=CloakBid&theme=github_dark&hide_border=true" width="100%" alt="CloakBid Repo Pin" />
-      </a>
     </td>
   </tr>
 </table>
@@ -124,7 +125,7 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <tr>
     <td width="26%" valign="top"><strong>Languages</strong></td>
     <td width="74%">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" alt="Languages" />
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/languages.svg" alt="Languages" />
       <br />
       <sub>JavaScript &bull; TypeScript &bull; Python &bull; C / C++</sub>
     </td>
@@ -132,7 +133,7 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <tr>
     <td width="26%" valign="top"><strong>Frontend</strong></td>
     <td width="74%">
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend" />
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/frontend.svg" alt="Frontend" />
       <br />
       <sub>HTML5 &bull; CSS3 &bull; React &bull; Next.js &bull; Tailwind CSS</sub>
     </td>
@@ -140,7 +141,7 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <tr>
     <td width="26%" valign="top"><strong>Backend</strong></td>
     <td width="74%">
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/backend.svg" alt="Backend" />
       <br />
       <sub>Node.js &bull; Express &bull; REST APIs</sub>
     </td>
@@ -148,7 +149,7 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <tr>
     <td width="26%" valign="top"><strong>Blockchain & Web3</strong></td>
     <td width="74%">
-      <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain & Web3" />
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/blockchain.svg" alt="Blockchain & Web3" />
       <br />
       <sub>Solidity &bull; Smart Contracts &bull; Midnight &bull; Web3 &bull; Zero-Knowledge Concepts</sub>
     </td>
@@ -156,7 +157,7 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <tr>
     <td width="26%" valign="top"><strong>Tools & Environments</strong></td>
     <td width="74%">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools" />
+      <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/tools.svg" alt="Tools" />
       <br />
       <sub>Git &bull; GitHub &bull; Visual Studio Code &bull; Docker</sub>
     </td>
@@ -197,12 +198,15 @@ Active technical areas I am researching, building prototypes in, and expanding s
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumi14mili&show_icons=true&theme=github_dark&hide_border=true" alt="Soumili's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Soumi14mili&theme=github_dark&hide_border=true" alt="Soumili's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumi14mili&show_icons=true&theme=github_dark&hide_border=true" alt="Soumili's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi14mili&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi14mili&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Soumi14mili&theme=github_dark&hide_border=true" alt="Soumili's GitHub Streak" />
 </div>
 
 <br />
@@ -234,19 +238,19 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <p align="center">
   <a href="https://github.com/Soumi14mili" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/github.svg" width="36" height="36" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_X_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" width="36" height="36" alt="X" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/twitter.svg" width="36" height="36" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/portfolio.svg" width="36" height="36" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email" />
+    <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/icons/gmail.svg" width="36" height="36" alt="Email" />
   </a>
 </p>
 
@@ -265,5 +269,5 @@ Active technical areas I am researching, building prototypes in, and expanding s
 <div align="center">
   <sub><strong>Build. Learn. Iterate.</strong></sub>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
