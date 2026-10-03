@@ -1,29 +1,39 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    ✦  SOUMILI BASAK — GITHUB PROFILE  ✦                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Soumili Basak
+<!-- ANIMATED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,80:1f2937,100:0f172a&height=190&section=header&text=Soumili%20Basak&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Exploring%20Web3%20%26%20Emerging%20Tech&descSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="Soumili Basak Header" />
 
-> **Developer • Builder • Exploring Web3 & Emerging Technology**
+<!-- DYNAMIC TYPING TERMINAL -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Software+Developer+%E2%80%A2+Product+Builder;Exploring+Web3+%26+Privacy-Preserving+Protocols;Building+Practical+Products+%26+Tools" alt="Typing SVG" />
+</a>
 
-Software developer focused on building practical products and exploring decentralized, privacy-preserving architectures. Learning continuously through hands-on development, hackathons, and active open-source technical communities.
+<p align="center">
+  Building software with a focus on practical applications and verifiable systems.<br />
+  Exploring Web3, privacy-preserving blockchain architectures, and modern full-stack development<br />
+  through hands-on building, hackathons, and active developer communities.
+</p>
 
-<br />
-
-<!-- Social & Navigation Links -->
+<!-- SOCIAL / NAVIGATION ROW -->
 <p align="center">
   <a href="https://github.com/Soumi14mili" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="34" height="34" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="34" height="34" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_X_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="34" height="34" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" width="32" height="32" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="34" height="34" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="34" height="34" alt="Email" />
   </a>
 </p>
 
@@ -31,13 +41,29 @@ Software developer focused on building practical products and exploring decentra
 
 <hr />
 
+<!-- ══════════════════════════════ SECTION 2: ABOUT ══════════════════════════════ -->
+
 ### 👤 About Me
 
-I am a developer driven by the challenge of turning ideas into functional, reliable software. My interests span modern full-stack web engineering and decentralized systems, with a particular focus on Web3, smart contracts, and privacy-preserving protocols.
-
-Rather than passive theory, I believe in learning by building—architecting prototypes, testing edge cases, and solving practical problems through working code. Whether collaborating at hackathons, contributing to developer communities, or experimenting with emerging technologies, I focus on building practical tools with real-world utility.
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        I am a developer driven by the challenge of turning ideas into functional, reliable software. My interests span modern full-stack web engineering and decentralized systems, with a particular focus on Web3, smart contracts, and privacy-preserving protocols.
+      </p>
+      <p>
+        Rather than passive theory, I believe in learning by building—architecting prototypes, testing edge cases, and solving practical problems through working code. Whether collaborating at hackathons, contributing to developer communities, or experimenting with emerging technologies, I focus on building practical tools with real-world utility.
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
 
 <hr />
+
+<!-- ═══════════════════════ SECTION 3: CURRENTLY EXPLORING ═══════════════════════ -->
 
 ### 🔭 Currently Exploring
 
@@ -51,11 +77,13 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <hr />
 
+<!-- ═══════════════════════ SECTION 4: FEATURED PROJECT ══════════════════════════ -->
+
 ### 🔒 Featured Project
 
 <table>
   <tr>
-    <td>
+    <td width="64%" valign="top">
       <h3>CloakBid — Privacy-Preserving Sealed-Bid Auctions</h3>
       <p>
         <strong>CloakBid</strong> explores a privacy-preserving auction protocol built on <strong>Midnight</strong>, designed to keep bid information confidential while still enabling verifiable, trust-minimized auction outcomes.
@@ -78,10 +106,17 @@ Active technical areas I am researching, building prototypes in, and expanding s
         <a href="YOUR_CLOAKBID_DOCS_URL"><strong>📖 Documentation</strong></a>
       </p>
     </td>
+    <td width="36%" align="center" valign="middle">
+      <a href="https://github.com/Soumi14mili/CloakBid">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumi14mili&repo=CloakBid&theme=github_dark&hide_border=true" width="100%" alt="CloakBid Repo Pin" />
+      </a>
+    </td>
   </tr>
 </table>
 
 <hr />
+
+<!-- ════════════════════════ SECTION 5: TECH STACK ═════════════════════════════ -->
 
 ### 🛠️ Technology Stack
 
@@ -130,6 +165,8 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <hr />
 
+<!-- ═════════════════════ SECTION 6: PHILOSOPHY ════════════════════════════════ -->
+
 ### ⚙️ Development Philosophy
 
 <table>
@@ -155,6 +192,8 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <hr />
 
+<!-- ══════════════════════ SECTION 7: GITHUB ACTIVITY ══════════════════════════ -->
+
 ### 📊 GitHub Activity
 
 <div align="center">
@@ -166,7 +205,20 @@ Active technical areas I am researching, building prototypes in, and expanding s
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumi14mili&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
+<br />
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Soumi14mili/Soumi14mili/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 <hr />
+
+<!-- ════════════════════ SECTION 8: COMMUNITY & HACKATHONS ═════════════════════ -->
 
 ### 🤝 Community & Hackathons
 
@@ -175,6 +227,8 @@ Active technical areas I am researching, building prototypes in, and expanding s
 * **Collaborative Projects** — Partnering with other developers on open initiatives and building products collaboratively.
 
 <hr />
+
+<!-- ════════════════════════ SECTION 9: CONNECT ════════════════════════════════ -->
 
 ### 🌐 Let's Connect
 
@@ -206,6 +260,10 @@ Active technical areas I am researching, building prototypes in, and expanding s
 
 <hr />
 
+<!-- ════════════════════════ SECTION 10: FOOTER ════════════════════════════════ -->
+
 <div align="center">
   <sub><strong>Build. Learn. Iterate.</strong></sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
